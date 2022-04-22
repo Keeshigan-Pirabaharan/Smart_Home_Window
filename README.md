@@ -1,1 +1,3 @@
-Master Repository for Smart Home Window App
+Initial Version of Smart Windows App. Not Functional.
+Functional Version under different repository.
+Archived
